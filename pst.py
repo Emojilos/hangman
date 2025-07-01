@@ -119,41 +119,6 @@ def ru_words():
 
 def en_words():
     en_words = [
-<<<<<<< HEAD
-    "anchor", "artist", "autumn", "badge", "baker", "balcony", "banana", "basket", "beacon", "beaver",
-    "beetle", "breeze", "bridge", "bronze", "bubble", "bucket", "butter", "button", "cactus", "camera",
-    "candle", "carpet", "castle", "celery", "cheese", "cherry", "circle", "clover", "coffee", "comet",
-    "cookie", "coral", "cotton", "crayon", "cricket", "crunch", "crystal", "curtain", "dagger", "dainty",
-    "dancer", "desert", "dimple", "dollar", "donkey", "dragon", "drawer", "drizzle", "duplex", "eagle",
-    "echo", "ember", "engine", "enigma", "fabric", "falcon", "fiddle", "figure", "filter", "finger",
-    "flavor", "flower", "forest", "fortune", "fossil", "freight", "fridge", "frosty", "gadget", "garden",
-    "garlic", "gazebo", "genius", "ginger", "giraffe", "glider", "goblet", "gopher", "gossip", "gravel",
-    "groove", "guitar", "hammer", "hazard", "helmet", "hermit", "hinge", "hobbit", "hockey", "hollow",
-    "honey", "hornet", "hurdle", "hybrid", "icicle", "ignite", "impact", "infant", "island", "ivy",
-    "jacket", "jargon", "jersey", "jigsaw", "jingle", "jockey", "jungle", "karate", "kitten", "ladder",
-    "lagoon", "lantern", "laptop", "larder", "lariat", "laundry", "legacy", "legend", "lemur", "lichen",
-    "lizard", "locust", "lotion", "lumber", "magnet", "mantis", "marble", "market", "marrow", "matrix",
-    "meadow", "meteor", "mimic", "minnow", "mirror", "monkey", "morale", "mosaic", "muffin", "museum",
-    "mystic", "nachos", "napkin", "nectar", "needle", "nickel", "nugget", "obelisk", "octave", "octopus",
-    "omelet", "onion", "opal", "orange", "orchid", "outlet", "oxygen", "packet", "paddle", "palace",
-    "pantry", "parade", "parrot", "pastel", "pebble", "pellet", "pepper", "pickle", "pigeon", "pillow",
-    "pirate", "planet", "plasma", "plenty", "plover", "poetry", "polish", "potato", "powder", "prairie",
-    "prince", "prison", "puzzle", "quartz", "quiche", "quiver", "rabbit", "radish", "raisin", "ranger",
-    "rascal", "rattle", "raven", "razor", "reboot", "refuge", "relic", "remedy", "rescue", "ribbon",
-    "rocket", "roster", "rubber", "rudder", "saddle", "salmon", "saucer", "scarab", "scenic", "scooter",
-    "scroll", "sequin", "shadow", "shovel", "shrimp", "signal", "silver", "simple", "siren", "skater",
-    "sketch", "skull", "slalom", "slayer", "slider", "sneeze", "socket", "sorbet", "sphinx", "sphere",
-    "spider", "spirit", "sponge", "sprout", "squash", "squire", "stable", "staple", "starch", "stereo",
-    "sting", "stitch", "stork", "stream", "stripe", "studio", "subtle", "sultan", "summer", "sunset",
-    "swamp", "swoosh", "symbol", "tablet", "talent", "tamale", "temple", "throne", "ticket", "timber",
-    "tomato", "tongue", "topaz", "torch", "toucan", "trench", "trifle", "trivia", "trophy", "tulip",
-    "tumble", "turtle", "twig", "twirl", "unicorn", "utopia", "vacuum", "valley", "velvet", "vermin",
-    "vessel", "victor", "violet", "vortex", "walnut", "warden", "warrior", "wasabi", "weasel", "widget",
-    "wizard", "wobble", "wonder", "wrench", "wrinkle", "yogurt", "yonder", "zealot", "zephyr", "zipper",
-    "zodiac", "zombie", "zucchini", "abroad", "accent", "admire", "affect", "agenda", "alpine", "amazed",
-    "anthem", "arcade", "avenue", "baboon", "ballet", "bamboo", "beacon", "beagle", "beetle", "bistro"
-    ]
-=======
     "apple", "baby", "ball", "banana", "bank", "bath", "bear", "bed", "bee", "bell",
     "bird", "book", "boot", "box", "boy", "bread", "brother", "bus", "cake", "car",
     "cat", "chair", "cheese", "child", "chicken", "clock", "cloud", "coat", "corn", "cow",
@@ -237,8 +202,6 @@ def en_words():
     "wine", "wing", "winter", "woman", "wood", "wool", "word", "work", "worm", "wound",
     "writing", "year", "yellow", "yoke", "zebra", "zero"
     ]
-
->>>>>>> 0cd385b (Second commit)
     
 
 
